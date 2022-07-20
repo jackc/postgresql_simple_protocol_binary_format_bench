@@ -22,4 +22,4 @@ PASS
 ok  	github.com/jackc/postgresql_simple_protocol_binary_format_bench	27.545s
 ```
 
-At 100 rows the text format is 48% slower than the binary format.
+At 100 rows the text format takes 48% longer than the binary format.
